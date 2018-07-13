@@ -1,21 +1,29 @@
 [{
     "federation": "FIFA",
     "title": "International Federation of Association Football",
-    "competitions": [{
-      "title": "World Cup 2018",
-      "id": "wc2018"
-    },
-    {
-      "title": "World Cup 2014",
-      "id": "wc2014"
-    }]
+    "competitions": [
+      {
+        "title": "World Cup 2018",
+        "id": "wc2018"
+      },
+      {
+        "title": "World Cup 2014",
+        "id": "wc2014"
+      }
+    ]
   },
   {
     "federation": "CONCACAF",
     "title": "Confederation of North, Central American and Caribbean Association Football",
-    "competitions": [{
-      "title": "Gold Cup 2017",
-      "id": "gc2017"
-    }]
+    "competitions": [
+      {
+        "title": "Gold Cup 2017",
+        "id": "gc2017"
+      },
+      {
+        "title": "Gold Cup 2015",
+        "id": "gc2015"
+      }
+    ]
   }
 ]
