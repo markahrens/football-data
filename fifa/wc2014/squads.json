@@ -1,0 +1,19 @@
+[{
+  "country":"AR",
+  "players":[
+    {
+      "number": "1",
+      "position" : "GK",
+      "name":"Sergio Romero",
+      "club":"AS Monaco",
+      "country":"FR"
+    },
+    {
+      "number": "12",
+      "position" : "GK",
+      "name":"Agustín Orión",
+      "club":"Boca Juniors",
+      "country":"AR"
+    }
+  ]
+}]
