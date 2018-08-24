@@ -44,5 +44,19 @@
         }
       ]
     }
+  ],
+  "knockout":[
+    {
+      "round":"16"
+    },
+    {
+      "round":"Quarterfinals"
+    },
+    {
+      "round":"Semifinals"
+    },
+    {
+      "round":"Finals"
+    }
   ]
 }
